@@ -57,6 +57,6 @@ The plot above demonstrates time series decomposition on the daily number of col
 4. Run the notebook step-by-step
 
 ```bash
-git clone https://github.com/yashling/NYC-Collisions-Analysis.git
-cd NYC-Collisions-Analysis
+git clone https://github.com/snuka75/Data-Analaysis-Projects-.git
+cd Data-Analaysis-Projects-
 jupyter notebook NYC_motor_vehicle_collisions_crashes.ipynb
